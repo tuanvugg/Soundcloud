@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "405AC6C683C7735E4F21E3790D2753147A7B2854",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "405AC6C683C7735E4F21E3790D2753147A7B2854" : 0,
+    "67BF9C3F40353DCD80244ABA93E00ACDB9327707" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "168ED697-4380-477B-8337-29BD4C6FB0AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "405AC6C683C7735E4F21E3790D2753147A7B2854" : "SoundCloudNew\/",
+    "67BF9C3F40353DCD80244ABA93E00ACDB9327707" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SoundCloudNew",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SoundCloudNew.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/norber1409\/SoundCloudNew.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "405AC6C683C7735E4F21E3790D2753147A7B2854"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/ducnt1409\/techkids_ios_gen1_soundcloudteam.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67BF9C3F40353DCD80244ABA93E00ACDB9327707"
+    }
+  ]
+}
